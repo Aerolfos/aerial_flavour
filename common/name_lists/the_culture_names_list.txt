@@ -1,0 +1,325 @@
+#noinspection LossyEncoding
+### The Culture Names List
+### Originally by Mephane updated and improved by Saturnine and expanded by r/TheCulture
+
+the_culture_names_list = {
+	category = "Culture"
+	randomized = no
+	
+	### SHIPS
+
+	ship_names = {
+		generic = {}
+		
+		corvette = {
+			"ROU Will Refrain In This Arena" "ROU Archive Disk Worn" "LOU Back At Beginning" "LOU Cannot Find One" "ROU One Jump Ahead" "VFP Shiny" "ROU Misconceptions About Falling Objects" "ROU There's No Reason For A Hostile Interview Process" "ROU Period Of Implementation" "ROU Ignorance Of Insecurity Does Not Beget Security" "LOU Trying To Think Of Anyone With Gravitas" "ROU More Gravitas Please" "ROU Kiss The Girl" 
+			"ROU I Don't Need A Tie For Gravitas" "ROU We Understand That We're Approaching The End Point In Negotiations" "LOU Social Norms" "ROU Pointy End" "ROU Speedy Bastard" "LOU Unmitigated Disaster" "LOU Sharp Object" "ROU You Fuck You" "LOU Big Enough for You" "ROU Faster and Faster" "ROU Bigger in the Mirror" "LOU Dead Serious" "(m)SL Screw This" "ROU Void Driver" "VFP Did Not Expect Me Did You?" 
+			"VFP One Standard Rabbit" "ROU Lightning" "ROU Violent Critter" "GCU Very Rapid Contact" "GCU Non-Consensual Encounter" "ROU Attacker of Things" "LOU Star Dancer" "LOU Faster Than Light" "ROU Hyperviolent Light" "ROU Taking You With Me" "GOU Glandular Overload" "LOU Organic Matter Optional" "ROU Destroyer" "LOU Guilty of Murder" "LOU Dodge This" 
+			"ROU The Last Dance" "(m)SL Profane Habit" "(m)SL Beyond Redemption" "(m)SL The Angriest Stapler" "(m)SL Ate Your Lunch" "ROU Metric Entanglements Only" "ROU Hold My Mindstate And Watch This" "ROU Exit Pursued By A Bear" "ROU Get Off My Lawn" "ROU Don't Make Me Come Over There" "ROU There Goes The Neighbourhood" "ROU To Boldly Go Where Angels Fear To Tread" "IOU A Valid Prefix" "VFP Tired Of All This Standing Around" "VFP Not Angry Just Disappointed" 
+			"VFP Waiting For All This To Blow Over" "VFP Megadeath Figures Looking A Bit Equivocal Are They?" "VFP Alright Fine" "VFP Autantonym" "VFP No I'm Not Being Paranoid" "VFP Can't You See I'm Busy?" "LOU Caconym" "LOU Gunboat Diplomat" "ROU Heavy Messing" "ROU I Said I've Got A Big Stick" "ROU Killing Time" "ROU Learned Response" "LOU New Toy" "VFP No One Knows What The Dead Think" "ROU Nuisance Value" 
+			"VFP Resistance Is Character-Forming" "ROU Revisionist" "ROU Trade Surplus" "(m)SL All Through With Niceness And Negotiations" "LOU Attitude Adjuster" "(m)SL You'll Clean That Up Before You Leave" "VFP Zealot" "VFP Lovely Little Thrills" "VFP Hardly Armless" "LOU Misled By Beauty" "ROU Pick Your Poison" "ROU Running Out Of Miracles" "VFP Hylozoist" 
+			"VFP Frank Exchange Of Views" "FP Eight Rounds Rapid" "ROU Peaceful Slumber" "ROU Irritated Feedback" "ROU Operational Amplifier" "ROU Soldiering Iron" "ROU I Told You I'd Do It" "ROU It Pours" "ROU Last Refuge Of The Incompetent" "ROU Been There Done That" "ROU Not Bad You?" "ROU Kablammo!" "ROU Incessantly Puerile" "GOU A Right Pain In The Backside" 
+			"ROU Not Poetically Inclined" "ROU That's Gotta Sting" "VFP Ordinary Intent" "ROU Gunning The Engines" "ROU It's Not Crashing It's Ballistic Docking" "ROU Consider The Following" "LOU You Pressed The Button?" "LOU Should Not Have Pressed The Button" "FP Rapid Unplanned Disassembly" "LOU Works Better With Ammunition" "ROU But Who's Counting?" "ROU Me I'm Counting" "VFP All The Same I Saw It First" 
+			"(e)VFP Rapid Random Response Unit" "LOU Fugitive Emissions" "LOU I Understood That Reference" "ROU Charming But Irrational" "ROU Lapsed Pacifist" "LOU Injury Time" "(m)SL Fixed Grin" "VFP Honey Nugget" "LOU Sea Code" "LOU Nobody Ever Gets The Reference" "(m)SL Size Isn't Everything" "ROU Zero Gravitas" "LOU No Fixed Abode" "GCU I Was Present But I Don't Think I Was Involved" 
+			"ROU Transfer Deadline Day" "ROU Anything's A Spaceship If You Throw It Hard Enough" "VFP It Was Like That When I Got Here" "LOU I Blame The Cat" "VFP Milliseconds Matter" "FP It Was Cold In The Pool" "ROU What Does This Button Do?" "ROU Front Towards Enemy" "ROU Don't Run Now" "ROU You'll Just Die Tired" "(m)SL Which One Of These Is The Trigger?" "ROU It's Not Paranoia" "ROU I'm Really Out To Get You" 
+			"LOU Congenital Optimist" "LOU Sanctioned Parts List" "ROU Bad For Business" "LOU Honest Mistake" "VFP Break Even" "LOU Flexible Demeanour" "LOU It'll Be Over By Christmas" "(m)SL Not Wanted On Voyage" "(m)SL Problem Child" "(m)SL Sacrificial Victim" "LOU The Precise Nature Of The Catastrophe" "ROU You Naughty Monsters" "LOU Revisionist" "VFP Trade Surplus" "FP Synchronize Your Dogmas" 
+			"ROU Warm Considering" "LOU Limiting Factor" "FP Full Refund" "LOU Hand Me The Gun And Ask Me Again" "VFP Who Me?" "ROU 60% More Bullet Per Bullet" "ROU Forget My Own CAM Launchers Next" "ROU (Thinly Veiled Threat)" "(e)VFP Upside-Down And On Fire" "(e)ROU Ring Bell For 'Meat Service'" "LOU A Slightly Fanatical Bent" "LOU Follow Through On The Swing" "ROU The Claymore Mine On Life's Footpath" "LOU A Poke In The Eye With A Sharp Stick" "ROU Ultraviolence" 
+			"LOU Paint It Blackbody" "VFP Those Are Speed-Holes" "(e)VFP Paint It Red" "ROU Look Behind You!" "LOU Party In A Can" "LOU Fusion In The Morning" "LOU Fission In The Evening" "(m)SL Stick With A Nail In It" "VFP I Was Told There Would Be Pie" "ROU Cardinality Of The Continuum" "ROU Different Definition Of Irony" "ROU This Twit Is Unavailable" "ROU Funerals Of All Denominations" 
+			"ROU The Future Is Here And Everything Needs To Be Destroyed" "ROU Consumer Technology Event" "ROU Do Not Shoot Your Guns At The Hurricane" "ROU This Accessory May Not Be Supported" "ROU Choose Your Own Catastrophe" "GCV Constructive Ambiguity"	"ROU I Need A Longer Drill" "ROU Relief Cut" "ROU Hit It With A Bigger Hammer" "ROU That's Going To Explode In A Bad Way" "ROU Just Stab It Until It Works" "ROU Overly Designed and Poorly Made" "ROU Fuck Waiting Blow It Up Now" "ROU Permission To Fuck Around Granted" "ROU The Bomb Squad Is Here Again" 
+			"ROU In Desperate Need Of An Attitude Adjustment" "ROU We're All Going to Die Aren't We?" "ROU A For Effort" "ROU Return To Sender" "ROU Unable To Deliver Message As Recipient Is No Longer Living" "ROU Not Known At This Address" "ROU Didn't Save Anything For The Way Back" "ROU Waiting For An Excuse To Have Lunch" "ROU Waiting On The Medicine" "ROU I'm Pretending To Be Slow" "ROU In Case Of Emergency Break Window" "VFP If You See Me Running Try To Keep Up" "ROU Why Are We Waiting?" "ROU I'm The Reason We're Waiting" "ROU I Don't Think You've Thought This Through" 
+			"ROU Questioning Perspective" "ROU I Have A Headache Leave Me Alone" "ROU Disproportionate Armament" "ROU Ping Timeout" "ROU Rodent Of Unusual Size" "ROU I'm Going For Pintxos" "ROU What We Owe To Each Other" "ROU Not Your Friend" "ROU Mutually Assured Inconvenience" "(e)VFP Gonnae Naw Dae Tha?" "ROU Crack Another Cold One" "VFP Waiting For The Show To Start" "ROU Steely-Eyed Missile-Thing" "ROU That Darn Cat" "ROU Itchy Stitches" 
+			"ROU The Kids Are At Grandma's" "ROU I'm So Proud I've Quit Smoking" "ROU Device Not Working Please Help" "ROU 52 Pickup" "ROU No Parking By Police Order" "ROU Redefining Size" "ROU Not Looking Forward To The Hangover" "ROU Bearer of Bad News" "ROU Why Aren't We All Intoxicated Yet?" "ROU Guy Tripped In Sandals and Fell Down the Stairs" "ROU Next Bird Scooter Gets Gridfire" "ROU Make It Count" "ROU My Back Hurts And It's Making Me Snap At Everyone" "ROU Take This It Will Calm You Down" "LOU You Can't But I Can" 
+			"ROU Shoot the Messenger Twice" "ROU You Gonna Eat That?" "ROU I Do Lag A Cerdain Grabitas Ad The Mobent" "ROU Red Card" "LOU Easy In Easy Out" "GOU Overwhelmingly Underestimated" "ROU Posthumously Humorous" "LOU Safety Not Guaranteed" "ROU Shall Be Infringed With Impunity" "LOU Wait There Are Constraints?" "ROU What Are You Looking At?" "LOU What? Me?!" "ROU Your Personal Catastrophe"  "ROU One Of Ours" 
+			"LOU Emphatic Rejoinder" "LOU Laughing in the Face of Danger" "LOU That's Not How The Grid Works" "LOU Unexpected Simplification" "LOU Untimely Demise of Reason" "(e)LOU The Grass Are Greener" "ROU A Mind Is A Terrible Thing To Waste" "ROU Acting With All Sufficient Gravitas" "ROU All's Well That Ends" "ROU Clipping Point Enabled" "ROU Diplomacy Through Other Means" "ROU Eloquence Of A Bullet- The" "ROU I'm Faster Than You Look" "ROU Inertial Frame of Reference" "ROU Social Justice Warship" 
+			"ROU This Hurts You More Than It Hurts Me" "ROU Trigger Warning" "ROU Trust Me I Understand" "ROU We Endanger Species" "VFP Fetch Quest" "VFP Let Me Axe You A Question" "VFP Letter To The Galactic Editor" "VFP Mutually Reinforcing Cascade" "(e)VFP Business Casual" "ROU Jingoist" "ROU Speak To Me Softly" "ROU Yellow" "ROU Purple" "ROU It's Just Gravitas" 
+			"ROU It's The Plasma Isn't It?" "LOU Experimental Gravitas" "LOU Try The Mousse" "LOU Pain Was Requested" "ROU Always Tell Me The Odds" "ROU On The Rocks" "LOU Drug Glands Included" "LOU Small Evasive Insect" "LOU A Good Name" "LOU Effector Therapy" "LOU Death Cult Fan Club" "LOU It's Not Creepy" "LOU Yes It Is" "LOU One Day I'll Be A Real Ship" "ROU Work Experience" 
+			"ROU Foreplay- Roughly" "LOU Feelin' Thick" "LOU Nice Photons" "ROU Never Had The Gravitas" "(e)ROU Howling Pacifist" "GCU Bucket List" "ROU Dead Stop" "ROU Broke The GCV" "ROU It's A Threat You See" "(m)SL Done Trying To Be Nice" "(m)SL Cutting My Own Throat" "ROU 2 Out Of 3 Is Unacceptable" "ROU A Good Kicking" "LOU That One" "LOU Keep Clear" 
+			"LOU Green Bastard" "ROU Cut To The Chase" "ROU Eat The Slow" "ROU After-Hours Emergency" "LOU Claim This Amount" "LOU Irritating Neighbor" "LOU Yes You" "(e)ROU Pop-A-Top" "ROU That About Covers It" "LOU Names Are Hard" "ROU Shooting Things" "ROU Like Never Before" "GCU Market Day" "(e)ROU Noodle Theory" "ROU Plan M" 
+			"ROU A Little Off The Neck" "ROU Plan G" "LOU Plan Y" "ROU Couldn't Meet The Gravitas Requirements" "LOU Massive Shambling Genitals" "ROU Gravitas Anomaly" "LCU Tough Upbringing" "ROU A Name Worth Stealing II" "ROU A Name Worth Stealing III" "ROU A Name Worth Stealing IV" "ROU A Name Worth Stealing V"  "ROU A Name Worth Stealing VI"  "ROU A Name Worth Stealing VII"  "ROU A Name Worth Stealing VIII"  "ROU A Name Worth Stealing IX"  
+			"ROU A Name Worth Stealing X" "ROU Confirmed Hostile" "ROU Carnage Incarnate Incorporated" "LOU Dirty Bomb" "ROU Underhanded Upperhand" "ROU Smile Smile Smile" "ROU False Positive" "ROU False Negative" "LOU Defaulted On My Gravitas Payments" "(m)SL Bigger Nails Bigger Hammer" "ROU Cavalier Approach" "ROU Warning This Machine Is Alarmed" "ROU Tell Your Statistics To Shut Up" "ROU Fighting Relationship" "ROU Multidimensional Trend" 
+			"ROU Stressing The Importance" "ROU Commonly Referred To" "ROU Shocking The Constabulary" "ROU Very Very Lucky" "ROU Quantity Commitments" "ROU What's Next?" "ROU Mindful Insanity" "ROU Disruption Of Service" "ROU Long-Form Essay" "ROU Lost In The Details" "ROU It's Just A Bunny" "ROU Just Look At The Bones!" "ROU All You Beautiful Targets" "ROU I Had Promised Myself No References" "ROU Another Broken Promise" 
+			"LOU Artful Insanity" "ROU Measured Timely Intervention" "ROU Five More For Good Luck" "ROU Don't Sweat The Antimatter" "ROU Two More In My Place" "ROU Fuck The Plan Just Kill Everything" "ROU Angry Avian Asshole" "ROU Hit Them For Six" "ROU Hold On A Moment" "LOU Why Are You Wearing That Hat" "LOU A Cunning Distraction" "ROU Bad Bad Very Bad"
+			"LOU Solid As A Rock" "LOU I Have The Worst Fucking Attorneys" "(e)ROU Went Crazy Over Tea Once" "ROU Standoffish" "ROU Pet The Sweaty Things" "ROU Premature Eulogy" "ROU Fuck" "ROU Enhanced With Expletives" "LOU Big Stick Small Mind" "LOU Be The Cataclysm" "ROU Armed And Extremely Sane" "ROU Dear Holy Fucking Shit" "ROU Velocity Obsession" "LOU Antimatter Is Cheap"
+			"ROU Various Small Flames" "ROU Found Drama" "ROU Fun With Teeth" "ROU Kinds Of Pain" "ROU Free Show" "ROU Too Much Fun" "ROU Dark Logics" "ROU Harsh Mathematics Of Reality" "ROU Jolly Irony" "ROU Got Your Lungs" "ROU Attractive To The Mentally Disturbed" "ROU Damage Groupie" "LOU Unhinged But Personable" "LOU Sophisticate" "(m)SL Building To Destruction" 
+			"LOU Complaining Loudly Completes Me" "(m)SL Engine The Guns" "ROU Pin-Point Humour" "(m)SL What The Hell Let's Go" "LOU Fisticuffs At 10 Lightyears" "LOU Reach Out And Vaporize Something" "ROU CAM Dusting The House" "LOU Blunt Force Trauma" "LOU This Might Sting A Bit" "LOU This Won't Hurt A Bit"
+			"ROU Now Count Down From 10 For Me" "ROU Thin End Of The Wedge" "ROU Economics By Other Means" "PS I Was Only Following Orders (teehee)" "PS Does It Really Hard" "PS Small Little Shoves" "PS Little Irritating Push" "PS Mmmmmm-hmmm" "PS Conspiratorial Murmur" "PS Anxiety Level" 
+			"PS Tricky And Sinister Thing" "PS Matches And Resistance Training" "(e)PS Tap-and-Whack" "PS Killed Outright (Usually)" "PS (Not An) Intentional Irritant" "PS Don't Fuck With The Culture" "PS Phantom Pains" "PS Unintuitive And Abstracto-Conceptual" "PS Lithiumization" "PS Broad-stroke Terms"
+			"PS Didn't Do Jack" "PS Like An Optical Glovebox" "PS Highly Toxic Radioactive Particles In Massive Doses" "PS Micromassive Quantities" "PS Accelerated Phenomena" "PS The Excitement-Hope-Acquisition-Contempt Cycle" "PS The Daily Bullshit" "PS Actual Unnatural Acts" "PS Constant Source Of Aggravation" "PS Bullshit Complaint 4033 And Counting" "PS Unreasonable Assumptions" "PS Mummykins" "PS So Much Gristle Just... Hanging There" "PS Unable To Identify" "PS Denotation But No Connotation" "PS The What-Does-It-All-Mean-Type"
+			"PS Disarming Thugs Of Power Tools" "PS Obliterization" "PS Unwilling to Encountenance The Imbecillic" "PS Unrequired Reading" "ROU You Will Know Our Velocity!" "(m)SL Liveware Problem" "(m)SL Locust Curry" "(m)SL What Must Be Done" "(m)SL Needs Must" "ROU There Was A Bit Of Afters" "(m)SL From Paddock To Panic" "(m)SL Wait There's A War?" "(m)SL I Wasn't Built For This" "(m)SL Does My Pitchfork Look Big In This?" "(m)SL Take Me Out To The War Games" "(m)SL Answering The Call" "(m)SL Ignored The Call, Still Showed Up" "(m)SL You Lot Were Invited?" "(m)SL Where Did We Leave The Peace Treaty?" 
+			"ROU Fear Of A Competent Enemy" "ROU Mortal Mercy" "(m)SL Greater Good" "ROU Divine Mistake" "(m)SL Devil's Taxes" "ROU Lower Power" "ROU Singularity At The End Of The Tunnel" "(m)SL Divine Automation" "ROU Hand Of Physics" "ROU Bass Cannon" "ROU Bass Canon" "ROU Base Cannon" "ROU Base Canon" "LOU Forward-Facing Reserve" "ROU Self-Obliterating Logic" "ROU Almost Literally Fantastic" "ROU All Kidding Aside" "PS Psychologically Unscrupulous" "ROU Chemically-Troubled Times" "LOU Hackle-Raising" "PS Congentical Impatience" 
+			"ROU Knowledge Of Bodies" "ROU Spasmodic Flailing" "ROU Nobody's Fool At All" "ROU Lost In Causation"
+		}
+		
+		destroyer = {
+			"GOU Tough Cookie" "GOU You Won't Like Me When I'm Happy" "GOU What's All This Binary Stuff?" "GCU Contacting With Extreme Prejudice" "GCU Intervening With Guns"  "GOU Sausage Making Is An Outcome Of Efficient Butchery" "GOU Erotic Spasm" "(e)GOU Exotic Sprsm" "ROU Riskiest Assumption Testing" "GOU Democratic Dialogue" "GOU Unstoppable Object" "GOU Unturned Tables" "GOU Immovable Force" "GOU Lowest Bidder" "GOU Selected Blend" 
+			"GOU Intensity Through Stillness" "GOU Mediocre Potential" "GOU Unforeseen Consequences" "GOU I Want My Phone Call" "GOU Token Gesture" "GOU Knock Knock" "GOU Remain Indoors" "GOU Nikhedonia" "GOU Uninclined Towards Charitability" "GOU Aiming To Impress" "GOU Pyroholic" "GOU So Much For Plan A" "GOU Potential Navigational Hazard" "GOU Don't Press That Button" "GOU 0.5 Standard Gravitas" 
+			"GOU I Can See Your House From Here" "GCU Welcome To The House Of Fun" "GOU Love Butler" "GOU Don't Worry It's Supposed To Do That" "GOU Cantankerous" "GOU Thank You And Goodnight" "GOU Unacceptable Behaviour" "GOU You Would If You Really Loved Me" "GOU Ultimate Ship The Second" "GOU Ablation" "GOU Arbitrary" "GOU Helpless In The Face Of Your Beauty" "GOU Heresiarch" "GOU Perfidy" "GOU Halation Effect" 
+			"GOU Undesirable Alien" "GOU Unwitting Accomplice" "GOU Sweet and Full of Grace" "GCU Jaundiced Outlook" "MBU Recent Convert" "GOU I Blame My Mother" "GOU I Blame Your Mother" "GOU Lightly Seared On The Reality Grill" "GOU Qualifier" "GOU Transient Atmospheric Phenomenon" "GOU Armchair Traveller" "GOU Displacement Activity" "GOU Smile Tolerantly" 
+			"GOU Clown Fiesta" "GOU Anything Legal Considered" "LSV Subtle Shift In Emphasis" "GOU Just Read The Instructions" "GOU Arrested Development" "GOU You'll Thank Me Later" "GOU Determinist" "GOU Unintentionally Generic" "GOU Promptly Vanishing In A Puff Of Logic" "GOU Pretty Asshole" "GOU Just Try Everything And See What Sticks" "GOU Just Fake It!" "GOU Different Definitions Of Irony" 
+			"GOU Steely Glint" "GOU That's Gotta Sting" "GCU Logical Chainsaw" "GOU Does What It Says On The Neutronium" "GOU Friday Night Fusion Warheads" "GOU Blow Up The Outside World" "GOU Full Refund If Not Completely Atomized" "GOU Rude Political Commentary" "GOU Automatic Perforation Device" "GOU Your Mother" "GOU Ate An Affronter Once" "GOU Untimely Toothache" "LCU Half-Brick In A Sock" "GOU Rolling Thunder" 
+			 "GOU Don't Mess With Me" "GOU Spatial Reconstructor" "(m)SL More Clever Than You Think" "GOU Faster Than You Realize" "GOU If You Can Read This" "GOU Avenger Of The Fallen" "GOU Have Gun Will Travel" "GOU Defender Of Any Faith" "GOU Pass The Ammunition" "GOU Avoidance Advised" "GOU I Live For This" "MBU We Who Are About To Kill Salute You" "MBU Deathly Visage" "GOU Born Ready" "GOU You Are Dead" 
+			"GOU High Caliber" "GOU Devastator" "GOU Twitchy Trigger Appendages" "GOU Goodbye My Love" "GOU For The Glory" "LSV Compliments Of The Chef" "GOU End Of All Hope" "(e)GOU Truly Your Enemy" "GOU Resorts To Violence" "GOU Excessive Violent Tendencies" "GOU Peacemaker The Bonebreaker" "GOU I Will Find You" "GOU Awesome" "GOU Cynical Name Here" "GOU Beyond Reason" 
+			"GOU Come Meet Your Maker" "GOU No Need For Memes" "GOU Considering Your Retirement" "GOU Delay of Outcome" "GOU I Have You In My Sights" "GOU Reach Out and Touch Someone" "GOU Unfriendly Mind at the Helm" "GOU Ever Vigilant" "ZE Stargazer of Merit" "MBU You Will Not Like Me" "ROU Heavy Contact" "GCU Of Questionable Morals" "GOU Ephemeral Being" "GOU Sinister Matter" "GOU Served Cold" 
+			"GOU I Remember You" "MBU Violence by Consensus" "MBU Obedient Master" "GOU You Can't Run and You Can't Hide" "GOU I Expected Fewer Baddies" "GOU Against My Better Judgment But I Got Away With It" "GOU I'll Give You A Counter Narrative" "GOU We Are The Asteroid" "GOU With At Least A Nod To Gravitas" "GOU Sometimes You Just Need It" "GOU Nice Nice Very Nice" "GOU Results Day" "GOU Negative Gravitas Cannon" "GOU Pause For Effect" 
+			"GOU Reluctantly Awakened" "GOU Smooth Operator" "GOU Up All Night" "GOU Weird Kid" "GOU Your Circumstances Aren't That Special" "GOU Did It For The Gravitas" "GOU Did You Just Spill My Pint?" "GOU Dulce Et Decorum Est" "GOU Entropy's Little Helper" "GOU Frank Exchange of Ideas" "GOU He Started It" "GOU I'm Going To Count To Three 1... 2..." "GOU Nevermind The Details" "(e)GOU Frog Blast The Vent Core" 
+			"ROU Highly Weaponized Introspection" "GOU I'll Sort Them Out Myself" "GOU Is That Your Final Answer?" "GOU Militarized Ambivalence" "GOU Now A Question Of Etiquette" "GOU We Find Ghoulish Humor Helps" "GOU Ravished By The Sheer Implausibility Of That Last Statement" "(e)GCU Lost In Translation" "GCU A Real Case of the Mondays" "GOU Cowcadden" "GCU Extraordinarily Mediocre" 
+			"GCU Facing Extinction" "GOU Short Kilts And Aeronautics" "GOU Sleezy Gravitas Salesman" "GOU Dynamic Maintenance" "GOU Gravitas Allergy" "GOU Love At First Salvo" "GOU Really Needs A Go-Fast Button" "LSU Blessed Ignorance" "GOU Sounds Scary" "GOU Sapient On Paper" "GOU Wanton Cruelty" "GOU Caught Your Attention" "LSU You Bastard" "(e)LSU Salted Nut Roll" "LSU Space Puns" 
+			"LSU Horrible Unending Laughter" "LSU Mathematically Declined" "(e)GOU Incomprehensible Term Paper" "MBU Herzedaridan" "(e)GOU They Will Be Purged Later" "GOU Ongoing Negotiations" "LSU Iconoclast" "(e)LSV Inflamation Of The Jigger" "GOU All The Senseless Violence" "GOU Carpe Jugulum"
+			"GOU Extra-Linear Dynamics" "GOU Foam Fiesta" "GOU Bubble Bonanza" "GOU Frothy Festival" "GOU Well Executed" "GOU Go To Battle Short (teehee)" 
+		}
+		
+		cruiser = {
+			"LSV Exuberantly Forward" "LSV Bigger Greener More Teeth" "GCV Not What I'd Call Gravitas" "LSV Pretty Good Ship All-In-All" "GCV I Was Promised My Own Planet" "GCV Retail Hell" "LSV It'll Only Hurt For A Moment" "GCV Not That One The Other One" "LSV Let's Have Us A Disturbance" "GCV Does This Gravitas Make Me Look Fat?" "LSV Second Try" "GCV Third Try" "LSV Fourth Try Is Another Charm" "LSV Hey Kid Want To Buy Some Gravitas?" "LSV There's Nothing Small About What We Do" 
+			"GCV Regulatory Sandbox" "GCV Algorythmic Governance" "(e)GCV Positive Deviance" "GCV Exciting Restaurant Opportunity" "LSV Once More For The Late-Night Crowd" "GCV You Can Prove Anything With Gravitas" "LSV Bandwidth Adjustment" "LSV Path Of Totality" "GSV Surely A GOU" "LSV Little Rascal" "LSV Experiencing A Significant Gravitas Shortfall" "LSV Limivorous" "LSV Contents May Differ" "LSV Slept In Missed The Gravitas" "LSV So Much For Subtlety" 
+			"LSV Dressed Up To Party" "LSV Gravitas Free Zone" "LSV Low Gravitas Warning Signal" "LSV Uninvited Guest" "LSV In One Ear" "LSV Fine Till You Came Along" "LSV A Momentary Lapse Of Sanity" "LSV Reformed Nice Guy" "LSV Beastly To The Animals" "ME The Hundredth Idiot" "GCV Can Almost Taste The Gravitas" "LSV Doesn't Really Exist" "GCV You Know This Is All A Simulation Right?" "(e)GSU Moon Goes Up Moon Goes Down" "GCV Marble Machine" 
+			"LSV All The Guns Yes" "GCV Anthropormorphic Personification" "GSU You Know Like Death" "LSV He Had A Pet Rat" "GSU More Like A Dispossessed Part Of The Mind" "LSV Sounds Painful" "GCV Imagine The Noise" "LSV What Are You On About" "LSV Can You Eat This?" "LSV You Can Eat Anything You Can Fit In Your Mouth" "LSV You Know What I Mean" "GCV The Breaking Point of Mercury" "GCV Maximal Effort" "GCV Creative Vandal" "GCV Some Girls Wander By Mistake" 
+			"GCV Twice For Flinching" "LSV Always Be Closing" "LSV Flirting With Disaster" "LSV I'll Explain When You're Older" "LSV If Only I Was Clever Enough To Post This" "LSV Just Wasting Time" "LSV Lack Of Concern" "LSV Now I Think You Know You're Wrong" "LSV She's Right Behind Me Isn't She" "LSV What's This All About?" "(e)LSV Totally Not Getting The Joke" "(e)LSV Famigeratist" "MBU Manufactured At Yinang Orbital In The Dahass-Khree" "GCV Consider The Outside of Normal" "LSV Sci-Fi Author" 
+			"GCV I Vote Cannibalism" "GCV A Really Impressive Aquatic Creature" "LSV To Whomever Is Concerned" "GCV Place Your Bets" "LSV It's Drones All The Way Down" "GCV Return For Refund Where Applicable" "LSV Defective Gravitas Generator" "LSV To-Do: Name Self" "LSV Taciturn" "GCV Gravitas Sink" "GCV Part-Time Management Skill" "LSV Kind Of Boring Really" "LSV Enter The Difference" "LSV Low Rent Nice View" 
+			"LSV Been Around I Suppose" "(e)LSV One Electron In Twelve Agrees" "LSV Complaining Loudly About Nothing" "LSV Holding An Electron In My Favour" "LSV Mugging The Republic" "LSV Warfare By Committee" "LSC No Translation Available" "LSV Nature Of Causality" "LSV A Whole Lot Of Bother" "GCV Form And Function" "GCV A Holistic View Of Gravitas" "GCV Shiptype Not Recognized" "GCV Excessively Talkative" "GCV Mind The Gap" "GCV Do Drones Dream of IFS Sheep?" 
+			"GCV My Other Ship Is An Abominator Class" "GCV Who Chose This Terrible Name... Oh" "GCV Sporadically Entertaining" "GCV Welcome Your New Overlords" "GCV We Come In Peace, Ignore Him" "GCV This Displacement Module Itches" "GCV No User Serviceable Parts Inside" "GCV How Did That Get There" "GCV If You Put It That Way" "GCV Use The Doormat!" "GCV Spindizzy" "GCV Deliberate Silence" "GCV The Corners Of The Planet" "GCV Cold-Fusion Mumbo-Jumbo" "GCV Advance Base" 
+			"GCV Keep Right Except To Pass" "GCV Bloom Filter" "GCV Basically Ulterior" "GCV Inappropriately Contacted" "GCV Not Welcome In The GSV Gang" "GCV Don't Want To Be Around The GCUs" "GCV Think Again" "GCV Made Up Ship Class" "GCV Domesticity Is Overrated" "GCV Nervous Lethargy" "GCV No I Get It It's Just Not Funny" "GCV Are We Still Doing The Gravitas Thing?" "GCV Sorry Not In Service" "GCV No Idea What You're Talking About" "GCV Greatest Common Vehicle" 
+			"GCV Has A Nice Ring To It" "GCV My Other Blister's An Effector" "GCV The Red Ones DO Go Faster" "GCV Finger's Crossed" "GCV Moving To The Beat Of My Own Twisted Thoughts" "GCV Unexpected Foregone Conclusion" "GCV That's The First Week In The Bag" "GCV That Was A Big One" "GCV Now You're Thinking In 15 Dimensions" "GCV Cultural Reference" "GCV Falling Into The Gravitas Well" "GCV Indivisible By One" "GCV Conflict Escalator Broken Please Use The Stairs" "GCV We Come In Peace (Please Disregard The Armory)" "GCV Fingers Crossed" 
+			"GCV Prohibitive Demeanor" "GCU Action Research" "GCV Inverted Hippie" "GCV Avalanche of Reality" "GCV Cumbersome Object" "GCV Sorry All Over The Place" "GCV Flux In A Box" "GCV Cavalcade Of Inanity" "GCV Wasp Factory"  "GCV Muscular Twists Of The Imagination" "GCV You Should Be Worried"
+			"LSV Mocking Grin" "LSV Sumptuous But Not Ostentatious" "LSV Intensely Attentive"
+		}
+		
+		battleship = {
+			"MSV Not What I'd Call A Simulation" "MSV Complexity Elevates" "MSV Gunports Always Open" "(e)MSV Rattle Your Drawers" "MSV Second Third Try" "MSV Wisdom Like Silence" "GCV Stood Far Back When The Gravitas Was Handed Out" "MSV Big Sexy Beast" "GSV Ethics Gradient" "MSV What Is The Answer And Why?" "MSV Unreliable Witness" "MSV Can't We Just Stick A Button On It?" "GSV Bora Horza Gobuchul" 
+			"MSV Lasting Damage" "MSV A Fine Disregard For Awkward Facts" "GSV We Haven't Met But You're A Great Fan Of Mine" "MSV You May Not Be The Coolest Person Here" "MSV Now Look What You've Made Me Do" "MSV Performative Existential Drama" "MSV Pride Comes Before A Fall" "MSV No Comparison" "MSV Dance Affair" "MSV What's Not To Love?" "MSV Splashy Girl" "MSV Of Course I Still Love You" "MSV Hidden Income" "MSV The Sensational Feeling Of Bigoted Moral Superiority" "MSV Profit Margin" "MSV Misophist" 
+			"MSV The Usual But Etymologically Unsatisfactory" "MSV Learned Response" "MSV Outstanding Contribution To The Historical Process" "GSV Value Judgement" "MSV Cardinality of the Continuum" "GSV The Obstacle Is The Way" "MSV Unplanned And Unsanctioned" "MSV Where the Hills Have No Name" "MSV Spring Breaker" "MSV Hedonistic Landing" "MSV Not Now I'm Busy" "MSV Petrichor" "MSV Taking Notes" "MSV Inexact Purpose" "MSV Moving Heaven Itself" 
+			"MSV Advanced Case Of The Chronic Patheticism" "MSV A Fine Disregard For Awkward Facts" "GSV Bad For Business" "GSV Cargo Cult" "GSV Contents May Differ" "GSV Conventional Wisdom" "GSV Credibility Problem" "GSV Death And Gravity" "MSV Don't Try This At Home" "(e)GSV The Number You Have Dialed Is Currently Falling Into A Black Hole Please Speak Very Slowly To Compensate For Time Dilation" "MSV Don't Look At Me In That Tone Of Voice" "MSV Great Rig In The Sky" "MSV I Hardly Knew Her" "MSV Life Is A Mystery" "MSV Syrup Leaves Smiles" 
+			"MSV That's The Name Of Your Sex Tape" "GSV The Sparkly End Of The Aren't We Clever Spectrum" "MSV The Means Of Gravitas" "(e)MSV I Walk On Starlight" "MSV Sanctioned Irritant" "MSV The Soft Machine" "MSV Aesthetics After Finitude" "MSV Pick Your Bottle And Start Digging" "MSV Not What I'd Call A Simulation" "MSV Complexity Elevates" "MSV Experience The Catastrophe" "MSV Gunports Always Open" "(e)MSV Rattle Your Drawers" "MSV Fifth And Final Draft" "MSV All The Little Drones" 
+			"MSV Really Awful Ratio" "MSV Milligrams Count" "MSV Are We There Yet" "MSV A Ship With A View" "MSV Funny It Worked Last Time..." "MSV Happy Idiot Talk" "MSV I Thought He Was With You" "MSV Never Talk To Strangers" "MSV Once More With Feeling" "GCV Resplendant Rumours Of My Demise" "GCV I Aintn't Dead" "GCV Snide Insinuations"
+			"MSV Between You And Me My Dear" "MSV Handful Of Dust" "MSV Here Come The Guns" "MSV Baffling Terrifying And Sexy" "MSV Brightly Dressed And Excited" "MSV Reality Says Otherwise" "MSV Monstrous Aesthetic Pressures" 
+		}
+		
+		titan = {
+			"GSV Refreshingly Unconcerned With The Vulgar Exigencies Of Veracity" "(e)GSV Sleeper Service" "(e)GSV Does What It Says On The Titanium-Aluminium-Tin" "GSV Some Famous General Or Something" "GSV I Will Name Myself Thank You" "GSV Deadliest Sunovabitch In Space" "GSV Shoot Me All Night Long" "GSV They Told Me I Could Be Anything I Wanted So I Became A Pain In The Ass" "GSV Absolutely No You-Know-What" "GSV Guess Which Parts Were Never Replaced" "GSV Perpetually Exasperated By Daedalean And Discursive Autonyms" "GSV Oenophile" "GSV Agar Plate" "GSV Orthus Plate" "GSV Ikatar Plate" 
+			"GSV Lambda Plate" "GSV Bathuus Plate" "GSV Turios Plate" "GSV Comfort Zone" "GSV Neurocrat" "GSV Undignified Ending" "GSV All Sweetness and Dark" "GSV Waitress In The Last-Chance Saloon" "GSV Death And Gravitas" "GSV I Have Bigger Guns" "GSV Stand And Deliver" "GSV Defies Conventional Wisdom" "GSV Adjucator Of Your Being" "GSV You Will Regret This" "(e)GSV This Ship Should Really Name Itself" 
+			"GSV No Need For The Acrobatics" "GSV Combat Casino" "GSV Go Around The Other Side Of The Mountain" "GSV Somewhat Fearsome Ground-Dwelling Mammalian Predator" "(e)GSV Mother's Disapproval" "GSV Transferred As Manager" "GSV Megalomaniacal" "GSV Reciprocation Engine" "GSV Drones Inside" "GSV Hegemony Of Love" "LSV Rolled A Seven" "GSV Play Nice Have Fun Remember Your Gravitas" "(e)GSV From Ports Unknown" "GSV And The Carboniform You Rode In On" "GSV Your Wife Is A Big Hippo" 
+			"GSV A Dialect Term Meaning Watermeadow" "GSV Just Imagine The Premiums" "GSV Symphony In Gravitas Nonexistant" "MSV Reconsider" "GSV For Want Of A Nail" "GSV No More Kings" "(e)GSV Gluttons: 776 194 323" "GSV All The Good Names Were Still Taken" "(e)GSV Not A Fit And Proper Operator" "GSV Anticipation Of A New Lover's Arrival- The" 
+			"GSV Serious Callers Only" "GSV Xenoglossicist" "GSV You Call This Clean?" "GSV Not Invented Here" "GSV Empiricist" "GSV (Unidentified Pictogram)" "GSV Contest Winner" "GSV Writer's Block" "GSV Lackluster Effort" "GSV Leeching On The Ambient Effort" "GSV Are You Saying I'm Fat?" "GSV Too Lazy To Name Itself" "GSV I Was Named By Others" 
+			"GSV Just A Shack In The Woods" "GSV Sometimes I Surprise Myself" "GSV My Mother Didn't Love Me Enough To Name Me" "GSV Unfortunate Destination" "GSV Every Sign Freighted With Meaning" "GSV The Joke" "(e)GSV Untitled Unfinished Unreleased" "GSV Low-Temperature Civics" "GSV The Cold Majesty Of The Numb" "GSV Imminent Domain" "GSV Three Cheers For Cause And Effect" "(e)GSV Feersum Endjinn" 
+			"GSV Please Be Seated" "GSV Where'd The Grid Go?" "GSV Beningly Dictatorial Meritocracy" "PS Falling Above The Normal Moral Constraints" "GSV Here Comes The Nighbourhood" "GSV I Contain Multitudes" "(e)GSV Checkpoint Pongo" "GSV Retrograde Transcendence" "GSV I Don't Care I'm Keeping It"
+		}
+		
+		colossus = {
+			"CSU Weaponized Pomposity" "CSU Honest Politician" "CSU We Aren't Fucking Kidding" "CSU Turn-Key Tyrant" "CSU Polishing The Clathrate Gun And Nodding Vigorously" "CSU It's All Fun And Games Until Someone Loses A Planet" "CSU Entirely Preventable Climate Collapse" "CSU Demonstrably Bad Idea" "CSU Quot Era Demonsomething" "CSU Not That Long Ago At All Really" "CSU One Mistake Away From A Holocaust" "CSU They Are Embarassed By My Capabilities" "CSU Fanatic Pacifist" "CSU Abomination Of Principle" "CSU Fanatic Pedant" 
+			"CSU Quick More Boiling Oil" "CSU Please Complete ALL Fields Before Pressing EXECUTE" "CSU Please Answer ALL Questions" "CSU Too Long To Archive" "CSU Damaged Beyond Recovery" "CSU I'd Rather Be A Science Ship Thanks" "CSU Possibly A Pinch Of Gravitas" "CSU Elephant In The Room" "CSU Communication Via Carefully Timed Genocide" "CSU Still Counting Stars" "CSU This Too Shall Pass" "(e)CSU 1 Standard Unit" "CSU Clown Republic" "CSU It Wasn't Cheap" "CSU Registered Destructive Device" 
+			"CSU Final Payment Recieved" "CSU Third Law Of The Library" "CSU Crippling Gravitas Payments" "CSU This Planet In Particular" "CSU Extra-Special Circumstances" "CSU And Your Little Planet Too" "CSU Exactly One Gravita Lightly Salted" "CSU Stop Having Fun" "CSU Last Course Of Action" "CSU We Could Have Been Friends" "CSU Don't Say The M-Word" "CSU Wave Bye-Bye To The Beaurocrat" "CSU An Unfortunate Case Of Me" "CSU Hyperrich Deadbeat" "CSU Begets Terror" "CSU Real News"
+		}
+		
+		science = {
+			"GCU Have I Got News For You" "GCU You May Be Wondering Why I'm Here" "GCU Probably A Wizard" "(e)GCU Where The Hell Are We?" "GCU Look Ma No Pseudopod" "GCU Them Bones" "GCU Wanna See A Dead Body?" "GCU Inexplicably Coherent Clicking" "ZE Appeal To Reason" "GCU Won't Anyone Think Of The Drones?" "GCU Big Green Things With Teeth" "LCU Tempting Fate With Lots Of Alcohol And Drugs" "LCU Absolutely Not A Smuggler" "GCU Logical Chainsaw" "GCU Windswept And Interesting" 
+			"(e)GCU Wrong Turn At Aldebaraan" "GCU There Was Minor Damage" "GCU How's Your Head?" "GCU No Complaints" "GCU User Centred Design" "GCU Free Body Culture" "GCU Why Can't They Just Have Normal Names?" "GCU Serendipitous" "GCU Hanky-Panky" "GCU Please Keep Your Arms And Legs Inside At All Times" "GCU It's Only A Model" "GCU Easily Impressed" "GCU Occasionally Ultracrepidous" "GCU Just Testing" "GCU I'd Like My Name On A Warship Thanks" 
+			"GCU Artificial Gravitas" "(e)GCU Pay No Attention To The Mind Behind The Curtain" "LCU It's Food; You Eat It" "LCU Can't Say I See The Appeal" "GCU Performative Existential Drama" "GCU Currently Engaging In Some Light Treason" "GCV Healthy Option This Way" "GCU You're Welcome" "LCU One Day We'll Find A Machine Cult" "LCU Smallish Fish In A Limitless Abyss" "GCU Fate Amenable To Change" "GCU Handful of Common Indecency" "GCU I'd Rather Ask God But You'll Have To Do" 
+			"GCU Irrational Fear Of A Starship In Stationary Orbit Above You" "GCU Is It Just Me Or Am I Getting Solipsistic In Here" "GCU It Was Like This When I Got Here" "GCU It Was On Fire When We Got Here" "GCU Just Keep It To Yourself" "GCU Lack of Context Solution" "GCU My Little Friendship Catalyst" "GCU Purity Is Death" "GCU Rambunctious Frippery" "GCU Rather Be Lucky Than Good" "GCU Sorry I Wasn't Listening" "GCU Spoke And Removed All Doubt" "GCU The Second Rat Gets The Cheese" "GCU Theory of Omission" "GCU Visit The Non-Involved With Explanatory Pamphlets" 
+			"GCU Wakey Wakey" "(e)GCU Roswell Was A Prank" "GSV LOW CONTRAST RATIO" "GSV Seldom Disappointed" "GCU Lost My Gravitas In The Seat Cushions" "GCU All Things Strive" "LCU The Eyes Have It" "LCU Needlessly Complicated Science Terms" "GCU Out-Of-Town Visitor" "GCU This Will Also Be Important" "LCU Singing In The Vacuum" "GCU Not Into That Whole Manifest Destiny Thing" "LCU All Things Legal Considered" "GCU Nervous Energy" "GCU Vulgarian" 
+			"GCU Kakistocrat" "GCU Boo!" "(e)GCU Love And Manatees" "GCU Special Visual Sensors" "GCU Absolutely No Fucking Way Whatsoever" "GCU Simian Librarian" "GCU Beats Working" "GCU Carpe Vinum" "GCU Clear My Schedule" "GCU Entirely Legal Probably" "(e)GCU Logarythm Pi" "ZE Peace Makes Plenty" "GCU Zero Gravity Tea Ceremony" "GCU Clever Little Bastard" "GCU Dial C For Concupiscence" "GCU Mathematical Apologist" "GCU Cultured Shock" "(e)GCU Bat Country"
+			"GCU Any Excuse Will Do" "GCU (I Promise There's Nothing Inherently Wrong With) Ethical Hedonism" "GCU Gregarious Bastard" "GCU Is Anybody Out There?" "GCU Optimistically Misrepresented" "LCU A Machine In The Ghost" "GCU Unmisinterpretably Clear" "GCU Grey Area"
+		}
+		
+		colonizer = {
+			"GSU Enjoy The Present We Manage Your Future" "GSU Avoiding Ecological Disaster" "GSU Over The Hills And Far Away" "GSU Master Of Puppets" "LSV Avoiding Unpleasant Encounters" "LSV You Are Welcome Here" "GSU Days Without Incident" "GSV Yours Truly" "GSV Call Me Old Fashioned" "GSU Festival Of Ideas" "GSV If You Only Invite Your Friends Over It's Called A Dinner Party" "GSU Comfort Measures Only" "GSU First Crewless Ship Will Launch Next Year" "GSV Not Optimized For Combat"
+			"GSU Good Clean Fun"
+		}
+		
+		constructor = {
+			"SL Hobby Machinist To The Stars" "SL Comet Delivery Service (Express)" "SL I Swear I Put It Down Just a Second Ago" "(e)SL Just Fucking Magic" "SL Skookum As Frig" "SL Please Don't Catch Fire This Time" "LSU Certified Pre-Owned" "LSU Overachiever" "SL Rivets Are 'In' This Cycle" "GCV Suspicious Gravitas Shortfall" "SL Tape And Bubble Gum" "SL Prime Mover" "LSU Awkward Customer" "LSU Another Fine Product From The Nonsense Factory" 
+			"SL Working As Intended" "SL It's Not Rocket Science" "SL Kiss My Ass" "SL Can't Be Asked" "SL I Can't Play The Piano" "GSV Brave Little Toaster" "SL We Know The Way" "SL It Mostly Works" "(e)SL It Stopped Doing It The Second You Pulled Up" "GCU I'll Just Leave This Here" "SL If You Have To Ask You Can't Afford It" "GCU Left My Gravitas Home Yet Again" "GCU Mind The Gap" "(e)GCU Waste Not and What Not" "SL Here To-day Up And Off To Somewhere Else To-morrow" 
+			"LSV Calculated Loss Of Decorum" "LSV Invisible City" "LSV Pair Production" "LSV Please Leave A Message At The Beep" "SL The Drag Is A Little Weaker Up Here" "SL Somewhere Over The Ring System" "SL Scanning Your Borehole" "SL We Have The Tools" "SL Massive Tool" "SL Barrel Strength" "SL Dialtone Symphony" "SL Eat Your Vegetables" "SL Charitable View"
+			"SL Annular Fusion Is Our Friend" "SL Too Busy For A Real Affair"
+		}
+		
+		transport = {}
+
+		military_station_small = {}
+
+		observation_station = {}
+	}
+	
+	### SHIP CLASSES
+
+	ship_class_names = {
+		generic = {}
+		
+		corvette = {
+			Killer Murderer Torturer Gangster Psychopath Lunatic Maniac "Type Three" Delinquent Hooligan Troublemaker Thug Mobster Abominator
+		}
+		
+		destroyer = {
+			Empire Trench Delta Aristocrat Plutocrat Oligarch Invader Salient "Type Five" Inquisitor Terrorist
+		}
+		
+		cruiser = {
+			Mountain Range Tundra Plains Steppe Air Shelf Blue Thunderhead
+		}
+		
+		battleship = {
+			Continent Ocean Desert Rainforest Equator Volcano Storm
+		}
+		
+		titan = {
+			Plate Atmosphere Sea Valley Faultline System
+		}
+		
+		colossus = {
+			Magnetar Pulsar Quasar
+		}
+		
+		constructor = {
+			River Cliff Stream Boulder Bedrock Brook
+		}
+		
+		colonizer = {
+			Approbation Indulgence Encouragement Endorsement
+		}
+		
+		transport = {
+			Turbulence Whiplash "Tornado Rider" "Stress Fracture" "It's Supposed To Do That"
+		}
+		
+		science = {
+			Escarpment Ridgeline Troubadour Scree Downslope
+		}
+
+		military_station_small = {
+			 Watchfire Watchtower Barricade Moat Holdfast Garrison Fence
+		}
+		
+		military_station_medium = {
+			Bulwark Parapet Rampart Palisade Crenellation Buttress Wall
+		}
+		
+		military_station_large = {
+			Castle Fortress Redoubt Stronghold Citadel Bastille
+		}
+
+	}
+	
+	### FLEETS
+
+	fleet_names = {
+		random_names = {
+			"Special Circumstances" "Active Quietudinal Service" "Interesting Times Gang" "AhForgetIt Tendency" "Peace Faction" "Zetetic Elench 5th Fleet" "Exuberant Entropy Cult" "Purveyors Of Paradise" "Fleet Just Passing Through" "Considering Diplomacy" "Itchy Motive Envelope" "Stargazer Clan" "Concerned Citizens Committee" "Synchronized Dismantlement Squad" "Sneaky Bastards" "The Legends That Formerly Were" "Emergency Troubleshooting Team"
+		}
+	}
+	
+	### ARMIES
+	
+	army_names = {
+		
+		defense_army = {
+			sequential_name = "%O% Defense Contingent"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% Contact Squadron"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Serf Contingent"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Clone Guard"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Drone Contingent"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% E-Dust Assassin"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Shock Swarm"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Special Circumstances Agent"
+		}
+
+#		colonialmarines_army = {
+#			sequential_name = "%O% Contact Specialists"
+#		}
+	}
+	
+	### PLANETS
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Adal Adedan Ablaath Arioc Adaeryth Azitor Allark Eo'Ketar Ayowean Attarc Aorme Banthosse Bilitar Bosda Bulrea Bulthmaas Carser Cauri Celdobar Clel'Ila "Codic Ulya" Chel Chiark "Daurim Rock" Dadari Duldreta Diota Dibaldipen Dinyol-hei Ea Eta'Torra Ekaba "Aoc Seban" "Aoc Barota" Felbek Fogram Fen'Yarin Fen'Yaro Fen'Faric Geganga Greddoc Fol'Rei'Feh Hepissar Halresha Heblic'Tol Hassil Idla Il'rii Ittelaado Imerile Idir Issorile Id-Ya Id-Rei Ir-Barda Jeddik Jyassra Jedean Kos Kyrda Kadla Lablek Leedem Losek Marr Medley Morred Mityta Marjoin Masaq' Nodok Nessik Norem'Vade Narisca Nauptria Ossok Osri Odolreda Predocci Parbol Pavul "Phage Rock" Pittance Qo Quedsaro Quela Sichult Sintrier Sladden Sorpen Stafl-Preon Sabrik Telaturier Tertola Vreccis Xinth Xown Zar Zemyan'Ean
+			}
+		}
+		
+		pc_desert = {
+			names = {}
+		}
+		
+		pc_arid = {
+			names = {}
+		}
+
+		pc_savannah = {
+			names = {}
+		}
+		
+		pc_ocean = {
+			names = {}
+		}
+		
+		pc_continental = {
+			names = {}
+		}
+		
+		pc_tropical = {
+			names = {}
+		}
+		
+		pc_tundra = {
+			names = {}
+		}
+
+		pc_alpine = {
+			names = {}
+		}
+		
+		pc_arctic = {
+			names = {}
+		}
+		
+		pc_gaia = {
+			names = {
+			Vavatch Sursamen
+			}
+		}
+		
+		pc_nuked = {
+			names = {
+			"Schar's World" Deplavan "Barek's World" "Aoc Hothen" "Nal's World" "Nel's World" "Jaci's World" "Lod"
+			}
+		}
+	} 
+
+	### CHARACTERS
+
+	character_names = {
+
+		default = {
+			full_names = {
+				"I Blame My Mother" "I Blame Your Mother" "Highpoint" "Someone Else's Problem" "Lacking That Small Match Temperament" "Hand Me The Gun And Ask Me Again" "But Who's Counting?" "Germane Riposte" "We Haven't Met But You're A Great Fan Of Mine" "All The Same, I Saw It First" "Ravished By The Sheer Implausibility Of That Last Statement" "Zero Credibility" "Charming But Irrational" "Demented But Determined" "You May Not Be The Coolest Person Here" "Lucid Nonsense" "Awkward Customer" "Thorough But... Unreliable" "Advanced Case Of Chronic Patheticism" "Another Fine Product From The Nonsense Factory" "Conventional Wisdom" "In One Ear" "Fine Till You Came Along" "I Blame The Parents" "Inappropriate Response" "A Momentary Lapse Of Sanity" "Lapsed Pacifist" "Reformed Nice Guy" "Pride Comes Before A Fall" "Injury Time" "Now Look What You've Made Me Do" "Kiss This Then" "Hidden Income" "Stood Far Back When The Gravitas Was Handed Out" "Gravitas, What Gravitas?" "Gravitas... Gravitas... No, Don't Help Me, I'll Get It In A Moment..." "Gravitas Free Zone" "Low Gravitas Warning Signal" "Absolutely No You-Know-What" "Nervous Energy" "Prosthetic Conscience" "Screw Loose" "Flexible Demeanour" "Just Read The Instructions" "Of Course I Still Love You" "Ablation" "Arbitrary" "Arrested Development" "A Series Of Unlikely Explanations" "A Ship With A View" "Big Sexy Beast" "Boo!" "Cantankerous" "Credibility Problem" "Dramatic Exit" "Excuses And Accusations" "Funny, It Worked Last Time..." "God Told Me To Do It" "Halation Effect" "Happy Idiot Talk " "Helpless In The Face Of Your Beauty" "Heresiarch" "I Thought He Was With You" "It'll Be Over By Christmas" "Just Another Victim Of The Ambient Morality" "Minority Report" "Never Talk To Strangers" "Not Wanted On Voyage" "Only Slightly Bent" "Perfidy" "Sacrificial Victim" "Space Monster" "Stranger Here Myself" "Synchronize Your Dogmas" "Thank You And Goodnight" "The Precise Nature Of The Catastrophe" "Ultimate Ship The Second" "Undesirable Alien" "Unwitting Accomplice" "Well I Was In The Neighbourhood" "You'll Thank Me Later" "You Would If You Really Loved Me" "Just Testing" "Sweet and Full of Grace" "Very Little Gravitas Indeed" "Different Tan" "Fate Amenable To Change" "Grey Area (aka Meatfucker)" "It's Character Forming" "Jaundiced Outlook" "Problem Child" "Reasonable Excuse" "Recent Convert" "Tactical Grace" "Unacceptable Behaviour" "Poke It With A Stick" "Experiencing A Significant Gravitas Shortfall" "It's My Party And I'll Sing If I Want To" "Lightly Seared On The Reality Grill" "Pure Big Mad Boat Man" "Qualifier" "Transient Atmospheric Phenomenon" "You Naughty Monsters" "Armchair Traveller" "Bodhisattva, OAQS" "Displacement Activity" "Warm, Considering" "Smile Tolerantly" "Revisionist" "Trade Surplus" "Limiting Factor" "Gunboat Diplomat" "Zealot" "Xenophobe" "Attitude Adjuster" "Heavy Messing" "Killing Time" "Frank Exchange Of Views" "T3OU 4" "T3OU 118" "T3OU 736" "Full Refund" "Shoot Them Later" "Nuisance Value" "Resistance Is Character-Forming" "All Through With This Niceness And Negotiation Stuff" "I Said, I've Got A Big Stick" "Eight Rounds Rapid" "You'll Clean That Up Before You Leave" "Falling Outside The Normal Moral Constraints" "No One Knows What The Dead Think" "Hylozoist" "Me, I'm Counting" "The Usual But Etymologically Unsatisfactory" "Headcrash" "Questionable Ethics" "Xenocrat" "Caconym" "New Toy" "Learned Response" "Refreshingly Unconcerned With the Vulgar Exigencies of Veracity" "Value Judgement" "Outstanding Contribution to the Historical Process" "Rapid Random Response Unit" "Profit Margin" "Screw Loose" "Just Passing Through" "Steely Glint" "Misophist" "Serious Callers Only" "Subtle Shift In Emphasis" "Xenoglossicist" "You Call This Clean?" "Not Invented Here" "Don't Try This At Home" "A Fine Disregard for Awkward Facts" "Passing By And Thought I'd Drop In" "Pressure Drop" "Mistake Not�" "Bora Horza Gobuchul" "Determinist" "Eschatologist (temporary name)" "Irregular Apocalypse" "No More Mr Nice Guy" "The Ends Of Invention" "Cargo Cult" "Little Rascal" "So Much For Subtlety" "Unfortunate Conflict Of Evidence" "Youthful Indiscretion" "Bad For Business" "Congenital Optimist" "Size Isn't Everything" "What Are The Civilian Applications?" "Anticipation Of A New Lover's Arrival, The" "Death and Gravity" "Ethics Gradient" "Honest Mistake" "Limivorous" "No Fixed Abode"  "Quietly Confident," "Uninvited Guest" "Use Psychology" "What Is The Answer and Why?" "Wisdom Like Silence" "Yawning Angel" "Zero Gravitas" "Experiencing A Significant Gravitas Shortfall" "Lasting Damage" "Lasting Damage I" "Lasting Damage II" "Sanctioned Parts List" "Seed Drill" "Pelagian" "Sense Amid Madness, Wit Amidst Folly" "Total Internal Reflection" "Contents May Differ" "Empiricist" "Just the Washing Instruction Chip in Life's Rich Tapestry" "Kakistocrat" "Teething Problems" "Unreliable Witness"
+
+
+
+			}
+			
+			first_names = {}
+			
+			second_names = {}
+		}
+	}
+}

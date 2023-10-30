@@ -1,0 +1,2 @@
+# trigger to check if these defines are on
+has_aerial_flavour = { always = yes }
