@@ -1,5 +1,5 @@
 name="Aerolfos' Flavour Stuff"
-path="mod/aerial_flavour"
+path="mod/aerial_flavour/aerial_flavour"
 tags={
 	"Flavour"
 }
