@@ -518,6 +518,8 @@
  ## Character names
  AERO1_CHR_Cirum:0 "Cirum"
 
+ AERO1_CHR_DivineMercyExtended:0 "Divine Mercy Extended"
+
  AERO1_CHR_SomeoneElsesProblem:0 "Someone Else's Problem"
  # Covenant names
  AERO1_CHR_ShadowofIntent:0 "Shadow of Intent"
