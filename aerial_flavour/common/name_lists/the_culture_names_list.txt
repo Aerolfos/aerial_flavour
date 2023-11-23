@@ -1,4 +1,4 @@
-#noinspection LossyEncoding
+﻿#noinspection LossyEncoding
 ### The Culture Names List
 ### Originally by Mephane updated and improved by Saturnine and expanded by r/TheCulture
 
