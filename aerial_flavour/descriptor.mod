@@ -5,4 +5,4 @@ tags={
 }
 picture="thumb.png"
 supported_version="3.*.*"
-version = 1.0.1
+version = 1.0.2
